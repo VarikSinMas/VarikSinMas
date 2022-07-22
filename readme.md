@@ -52,16 +52,11 @@ Made in &nbsp; &nbsp;<img src="https://cdn.worldvectorlogo.com/logos/spainc.svg"
 	
 <div align="center">
 
-## &#x1f4c8; My GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=variksinmas&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-[![Antoni's GitHub stats](https://github-readme-stats.vercel.app/api?username=variksinmas&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
   <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-    <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com?user=variksinmas&theme=github-dark" alt="ojimenezjh"/>
+    <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com?user=variksinmas&theme=github-dark" alt="variksinmas"/>
   </a>  
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
     <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=variksinmas&show_icons=true&theme=dark&border_color=00a000" />
