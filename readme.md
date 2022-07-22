@@ -61,10 +61,10 @@ Made in &nbsp; &nbsp;<img src="https://cdn.worldvectorlogo.com/logos/spainc.svg"
 <br>
 <div align=center>
   <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-    <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com?user=ojimenezjh&theme=github-dark" alt="ojimenezjh"/>
+    <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com?user=variksinmas&theme=github-dark" alt="ojimenezjh"/>
   </a>  
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-    <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=ojimenezjh&show_icons=true&theme=dark&border_color=00a000" />
+    <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=variksinmas&show_icons=true&theme=dark&border_color=00a000" />
   </a>
 </div>
 
@@ -72,12 +72,12 @@ Made in &nbsp; &nbsp;<img src="https://cdn.worldvectorlogo.com/logos/spainc.svg"
 
 <div align=center>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojimenezjh&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=ffffff&text_color=ffffff&icon_color=61dafb&bg_color=1b1b1b&langs_count=8&layout=compact&border_color=00a000" />
+    <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=variksinmas&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=ffffff&text_color=ffffff&icon_color=61dafb&bg_color=1b1b1b&langs_count=8&layout=compact&border_color=00a000" />
   </a>
 </div>
 
 <br>
-<img src="https://activity-graph.herokuapp.com/graph?username=ojimenezjh&line=00a000&color=ffffff&point=007000&bg_color=1b1b1b&hide_border=true" width="100%"/>
+<img src="https://activity-graph.herokuapp.com/graph?username=variksinmas&line=00a000&color=ffffff&point=007000&bg_color=1b1b1b&hide_border=true" width="100%"/>
 <hr>
 </code>
 
