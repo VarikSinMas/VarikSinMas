@@ -1,3 +1,11 @@
+<h1 align="center">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?duration=1700&center=true&vCenter=true&lines=Hello%2C+There!%F0%9F%91%8B%F0%9F%8F%BB+;I'm+Oscar%2C;+let's+talk+about+me...">
+</a>
+</h1>
+
+<h2 align="center">👋 Hi, I'm Oscar Jiménez, FullStack developer finishing university degree in Computer Engineering👨‍💻</h2>
+<div align=center>
 <img src="banner (2).gif">
 
 <h1 align="center"> Hello 👋🏻, ɪ'ᴍ ᴀɴᴛᴏɴɪ! </h1>
