@@ -4,7 +4,7 @@
 </a>
 </h1>
 
-<h2 align="center">👋 Hi, I'm Oscar Jiménez, FullStack developer finishing university degree in Computer Engineering👨‍💻</h2>
+<h2 align="center">👋 Hi, I'm Antoni Fernandez, FullStack developer finishing university degree in Computer Engineering👨‍💻</h2>
 <div align=center>
 <img src="banner (2).gif">
 
