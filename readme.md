@@ -14,7 +14,7 @@ Made in &nbsp; &nbsp;<img src="https://cdn.worldvectorlogo.com/logos/spainc.svg"
 
 👨🏻‍💻 Junior Front End Developer
 
-👨‍🎓 [Funación Esplai]([https://www.schoolofcode.co.uk/](https://fundacionesplai.org/enfocat-2/)) Bootcamp graduated.<br><br>
+👨‍🎓 [Fundación Esplai]([https://www.schoolofcode.co.uk/](https://fundacionesplai.org/enfocat-2/)) Bootcamp graduated.<br><br>
 
 </div>
 
