@@ -72,9 +72,7 @@ Made in &nbsp; &nbsp;<img src="https://cdn.worldvectorlogo.com/logos/spainc.svg"
   </a>
 </div>
 
-<br>
-<img src="https://activity-graph.herokuapp.com/graph?username=variksinmas&line=00a000&color=ffffff&point=007000&bg_color=1b1b1b&hide_border=true" width="100%"/>
-<hr>
+
 </code>
 
 </div>
