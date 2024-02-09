@@ -73,7 +73,6 @@ Made in &nbsp; &nbsp;<img src="https://cdn.worldvectorlogo.com/logos/spainc.svg"
 </div>
 
 <br>
-<img src=""/>
 <hr>
 </code>
 
